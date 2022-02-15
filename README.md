@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/C-454a52?style=flat&logo=C)
 ![C#](https://img.shields.io/badge/C%23-454a52?style=flat&logo=c-sharp&logoColor=forestgreen)
 ![C#](https://img.shields.io/badge/HTML-454a52?style=flat&logo=html5&logoColor=slateorange)
-![C#](https://img.shields.io/badge/css-454a52?style=flat&logo=css3&logoColor=slateblue)
+![C#](https://img.shields.io/badge/CSS-454a52?style=flat&logo=css3&logoColor=slateblue)
 ## **You can contact with me on:**
 [![Instagram](https://img.shields.io/badge/Instagram-454a52?flat&logo=Instagram)](https://www.instagram.com/lev_pavelich/)
 [![Telegram](https://img.shields.io/badge/Telegram-454a52?flat&logo=Telegram)](https://t.me/OGLewel)

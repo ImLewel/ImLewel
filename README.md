@@ -13,7 +13,7 @@
 ![C#](https://img.shields.io/badge/CSS-454a52?style=flat&logo=css3&logoColor=slateblue)
 ## **You can contact with me on:**
 [![Instagram](https://img.shields.io/badge/Instagram-454a52?flat&logo=Instagram)](https://www.instagram.com/lev_pavelich/)
-[![Telegram](https://img.shields.io/badge/Telegram-454a52?flat&logo=Telegram)](https://t.me/OGLewel)
-![Discord](https://img.shields.io/badge/Discord-454a52?flat&logo=discord&logoColor=slateblue)
+[![Telegram](https://img.shields.io/badge/Telegram-454a52?flat&logo=Telegram)](https://t.me/ImLewel)
+[![Discord](https://img.shields.io/badge/Discord-454a52?flat&logo=discord&logoColor=slateblue)](https://discord.com/users/961004616051470336)
 [![Gmail](https://img.shields.io/badge/Gmail-454a52?flat&logo=Gmail&logoColor=Red)](mailto:levpavelko2004@gmail.com)
 
